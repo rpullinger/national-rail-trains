@@ -1,0 +1,33 @@
+{
+  "name": "national-rail-trains",
+  "version": "0.1.0",
+  "description": "Wrapper around the National Rail departure and arrival boards soap API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rpullinger/national-rail-trains.git"
+  },
+  "keywords": [
+    "National",
+    "Rail",
+    "trains",
+    "departures",
+    "arrivals",
+    "train",
+    "boards",
+    "uk"
+  ],
+  "author": "Richard Pullinger <r_pullinger@hotmail.com> (htto://pullin.gr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rpullinger/national-rail-trains/issues"
+  },
+  "homepage": "https://github.com/rpullinger/national-rail-trains",
+  "dependencies": {
+    "async": "^1.0.0",
+    "soap": "^0.9.0"
+  }
+}
